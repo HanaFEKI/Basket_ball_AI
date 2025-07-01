@@ -1,0 +1,13 @@
+{
+    "video_in": "../../../../basket_short.mp4",
+    "i_frame": [1,3,5],    
+    "size_ratio": 1.5,
+    "conf_thresh": 10,
+    "plot_pts": false,
+    "init_frame": 0,
+    "max_frames": 2000,
+    "batch_size": 4,
+    "min_match_count": 10,
+    "index_params": {"algorithm": 1, "trees": 5},
+    "search_params": {"checks": 50}
+}
