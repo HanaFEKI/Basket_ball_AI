@@ -1,0 +1,6 @@
+supervision
+psutil
+umap
+mchmm
+ultralytics
+tqdm
