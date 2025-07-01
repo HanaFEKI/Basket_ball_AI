@@ -43,7 +43,7 @@ The system integrates several state-of-the-art techniques:
 
 1. Clone this repository:
 ```
-
+git clone https://github.com/HanaFEKI/Basket_ball_AI.git
 ```
 2. Install dependencies (see `requirements.txt`).
 3. Run the detection and tracking pipeline on your video data.
